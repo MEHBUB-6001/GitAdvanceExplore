@@ -2,3 +2,5 @@ Hey, I am learning git
 
 
 A new team is added in master branch
+
+added a chartFunction in our branch
