@@ -1,0 +1,12 @@
+Hey, I am learning git
+
+
+A new team is added in master branch it is important
+
+added a chartFunction in our branch
+
+<<<<<<< HEAD
+added a code for logout
+=======
+added mybranch 
+>>>>>>> mybranch
